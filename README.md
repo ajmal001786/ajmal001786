@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# AjmalDSPortfolio
+
+About:
+
+🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing, Digital Transformation, Hybrid Cloud Computing, Red Hat, Cyber Security. I have previously worked in the fields of Computer Architecture, Signal and Image Processing, Biometrics and Pattern Recognition.
+
+💭 My personal mission is to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
+
+👯 I'm interested in mentoring, coaching and collaborating with fellow enthusiasts in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an email!
+
+👉🏼 Feel free to follow me on LinkedIn to stay updated with my latest AI content.
+
+Bio
+🧠 I find innovative ways to advance the field of Ai and Pattern recogintion, prediction, mathemtical modeling.
+
+⌛️ Currently, I am part of the AI Machine Intelligence Neural Design (AI-MIND) team at IANCON.net, where I specialized in designing AI models for a wide range of applications including Natural Language Processing, Speech Recognition, and Computer Vision.
+
+🌱 I'm currently pursuing my graduate studies part-time in Computer Science with a specialization in Artificial Intelligence from University.
+
+🎓 I received my Electrical and Computer Engineering with a specialization in Computers from the NED University and graduated in 2014 with an outstanding graduate student award.
+
+📚 I am a distinguished alumnus of the NED University, one of the largest universities in the world.
+
+Personal Profile
+🌎 coming soon
+
+AI Portfolio
+💼 github repositeries contains course notes and learning material for Artificial Intelligence and Deep Learning learning classes.
+🌎 i host podcast and blog on www.engineerability.com | podcast.engineerability.com
+
+Feel free to Connect with me email: consultantajmal@gmail.com
