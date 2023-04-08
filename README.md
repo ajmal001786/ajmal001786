@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Ajmal Data Science Profile
+# Ajmal Profile
 
 About:
 
