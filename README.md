@@ -48,7 +48,7 @@ AI Portfolio
 Feel free to Connect with me email: consultantajmal@gmail.com
 
 *********************************************************************
-
+# Courses & Projects
 
 # Stanford: DeepLearning.AI by Andrew NG 
 (Dr. Andrew Ng is a globally recognized leader in AI (Artificial Intelligence). He is Founder of DeepLearning.AI, Founder & CEO of Landing AI, General Partner at AI Fund, Chairman and Co-Founder of Coursera and an Adjunct Professor at Stanford University’s Computer Science Department.)
@@ -148,9 +148,13 @@ Explore generative deep learning, and how AIs can create new content, from Style
 
 
 # Mathematics for Machine Learning and Data Science Specialization
+
+Linear Algebra for Machine Learning and Data Science
 Calculus for Machine Learning and Data Science
 Probability & Statistics for Machine Learning & Data Science
 
 A deep understanding of the math that makes machine learning algorithms work.
 Statistical techniques that empower you to get more out of your data analysis.
 Fundamental skills that employers desire, helping you ace machine learning interview questions and land your dream job.
+
+
