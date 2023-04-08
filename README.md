@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
+👯 I’m looking to collaborate on Research Projects
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -25,7 +25,7 @@ About:
 
 👯 I'm interested in mentoring, coaching and collaborating with fellow enthusiasts in the field of AI. If you have an idea related to my areas of interest, feel free to shoot me an email!
 
-👉🏼 Feel free to follow me on LinkedIn to stay updated with my latest AI content.
+👉🏼 Feel free to follow me on LinkedIn to stay updated with my latest AI, DT content.
 
 Bio
 🧠 I find innovative ways to advance the field of Ai and Pattern recogintion, prediction, mathemtical modeling.
@@ -43,6 +43,10 @@ Personal Profile
 
 AI Portfolio
 💼 github repositeries contains course notes and learning material for Artificial Intelligence and Deep Learning learning classes.
-🌎 i host podcast and blog on www.engineerability.com | podcast.engineerability.com
+🌎 i host podcast and blog on https://www.engineerability.com | https://podcast.engineerability.com
 
 Feel free to Connect with me email: consultantajmal@gmail.com
+
+*********************************************************************
+
+
